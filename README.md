@@ -54,7 +54,7 @@ Dataset Source: [https://doi.org/10.1016/j.jretconser.2021.102771](https://doi.o
 ## Key Findings
 - Vectorized textual reviews can effectively predict product categories and detect fake reviews.  
 - Certain words or phrases appear frequently in fake reviews, which can be visually identified through Word Clouds.  
-- The project highlights the importance of **text representation** and **feature extraction** in NLP-based classification tasks.
+- The project highlights the importance of **text representation** and **feature extraction** in NLP-based classification tasks here.
 
 ---
 
